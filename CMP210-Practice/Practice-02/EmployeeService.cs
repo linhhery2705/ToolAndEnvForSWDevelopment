@@ -24,8 +24,12 @@ namespace Practice_02
             } else if (employeeType == EmployeeType.SeniorManager)
             {
                 factor = 2;
+<<<<<<< Updated upstream
             } 
             
+=======
+            }
+>>>>>>> Stashed changes
             // TODO: if employee is Expert, set factor = 3
             else if (employeeType == EmployeeType.Expert)
             {
